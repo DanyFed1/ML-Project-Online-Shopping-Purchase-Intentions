@@ -15,10 +15,9 @@ Results are accesssible though notebook.
 
 References: 
 
-Sakar, C. O., Polat, S. O., Katircioglu, M., & Kastro, Y. (2018). Real-time prediction of online shoppers’ purchasing intention using multilayer perceptron and LSTM recurrent neural networks. Neural Computing and Applications, 31(10), 6893–6908. https://doi.org/10.1007/s00521-018-3523-0
+Sakar, C. O., Polat, S. O., Katircioglu, M., & Kastro, Y. (2018). Real-time prediction of online shoppers’ purchasing intention using multilayer perceptron and LSTM recurrent neural networks. Neural Computing and Applications, 31(10), 6893–6908. h
 
-Liu, F. T., Ting, K. M., & Zhou, Z. H. (2008). Isolation Forest. 2008 Eighth IEEE International Conference on Data Mining. Published. https://doi.org/10.1109/icdm.2008.17
+Liu, F. T., Ting, K. M., & Zhou, Z. H. (2008). Isolation Forest. 2008 Eighth IEEE International Conference on Data Mining. 
 
 Baati, K., & Mohsil, M. (2020, June). Real-time prediction of online shoppers’ purchasing intention using random forest. In IFIP International Conference on Artificial Intelligence Applications and Innovations (pp. 43-51). Springer, Cham.
-![image](https://github.com/DanyFed1/ML-Project-Online-Shopping-Purchase-Intentions/assets/108013491/1abdbc60-9a14-443e-b84e-d3d6b31378cf)
 
